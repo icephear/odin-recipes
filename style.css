@@ -1,0 +1,16 @@
+
+.titulo {
+    text-align: center;
+    font-size: 48px;
+}
+
+.titulo2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
